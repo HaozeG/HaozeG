@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there I'm Haoze Gao👋
+I'm Haoze Gao, a 20-year-old Electrical Enginnering student. Now pursuing my Bachelor degree in ZJUI, a joint constitute between Zhejiang University and UIUC. <br>
+## 📫 How to reach me: 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HaozeG)
+
+- 🌱 I’m currently learning VB.NET
+- 😄 Pronouns: He/His/Him
+
+![HaozeG's github stats](https://github-readme-stats.vercel.app/api?username=HaozeG&show_icons=true&theme=dark)
