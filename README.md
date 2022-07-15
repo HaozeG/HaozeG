@@ -20,7 +20,7 @@ I'm Haoze Gao, a 20-year-old Electrical Enginnering student. Now pursuing my Bac
 ## 📫 How to reach me: 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HaozeG)
 
-- 🌱 I’m currently learning VB.NET
+- 🌱 I’m currently learning C++
 - 😄 Pronouns: He/His/Him
 
 ![HaozeG's github stats](https://github-readme-stats.vercel.app/api?username=HaozeG&show_icons=true&theme=dark)
