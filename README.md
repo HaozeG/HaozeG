@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there I'm Haoze Gao👋
-I'm Haoze Gao, a 20-year-old Electrical Enginnering student. Now pursuing my Bachelor degree in ZJUI, a joint constitute between Zhejiang University and UIUC. <br>
+I'm now pursuing my Master's degree in ETH Zurich. I received a Bachelor's degree in ZJUI, a joint constitute between Zhejiang University and UIUC. <br>
 ## 📫 How to reach me: 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HaozeG)
 
