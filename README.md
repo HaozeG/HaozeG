@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 ### Hi there I'm Haoze Gao👋
 I'm now pursuing my Master's degree in ETH Zurich. I received a Bachelor's degree in ZJUI, a joint constitute between Zhejiang University and UIUC. <br>
 
-Current interest in software architecture design(ai compiler as current focus), software-hardware cooptimization. 
-
-Embrace AI by exploring the limits of AI and extending my own abilities with AI. 
